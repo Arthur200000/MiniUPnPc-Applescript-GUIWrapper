@@ -1,6 +1,8 @@
 MiniUPnPc-Applescript-GUIWrapper
 ================================
+Well, can anyone tell me which charset the script is using?
 
+---
 An AppleScript-based MiniUPnPc wrapper GUI. Useful for P2P, online gaming, ssh, etc.
 
 Target: Make an app-bundle-wrapped AppleScript wrapper for miniupnpc <http://miniupnp.free.fr/>
@@ -8,7 +10,6 @@ Target: Make an app-bundle-wrapped AppleScript wrapper for miniupnpc <http://min
 HowToUse: Follow the GUI -- if I have finished it, Err...
 
 ---
-
 miniupnpc and the scripts are both released under the BSD 2-Clause License <http://opensource.org/licenses/BSD-2-Clause>.
 
 ---
