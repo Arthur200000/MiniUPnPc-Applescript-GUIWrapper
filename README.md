@@ -1,6 +1,7 @@
 MiniUPnPc-Applescript-GUIWrapper
 ================================
 Well, can anyone tell me which charset the script is using?
+Oh, GB10830……
 
 ---
 An AppleScript-based MiniUPnPc wrapper GUI. Useful for P2P, online gaming, ssh, etc.
